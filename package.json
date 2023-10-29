@@ -1,0 +1,65 @@
+{
+  "name": "arthurgb",
+  "displayName": "ArthurGB",
+  "description": "Here you can find all the extensions of ArthurGB using Java and Quarkus.",
+  "icon": "javaExtation.jpg",
+  "publisher": "ArthurGularteBrandi",
+  "version": "0.0.1",
+  "author": {
+    "name": "Arthur Gularte Brandi",
+    "email": "arthurgularte80@gmail.com",
+    "url": "https://github.com/ArthurGB"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArthurGB80/java_quarkus_extentions_vscode"
+  },
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "category": "Extension Packs",
+  "keywords": [
+    "Java",
+    "Quarkus",
+    "Spring Boot",
+    "essential"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Aashish.java-colored-text-printing-extension",
+    "BracketPairColorDLW.bracket-pair-color-dlw",
+    "Codeium.codeium",
+    "eamodio.gitlens",
+    "georgewfraser.vscode-javac",
+    "GitHub.codespaces",
+    "ithildir.java-properties",
+    "jspolancor.presentationmode",
+    "ms-azuretools.vscode-docker",
+    "MS-CEINTL.vscode-language-pack-pt-BR",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    "phind.phind",
+    "PKief.material-icon-theme",
+    "redhat.fabric8-analytics",
+    "redhat.java",
+    "redhat.vscode-microprofile",
+    "redhat.vscode-quarkus",
+    "shengchen.vscode-checkstyle",
+    "simahao.autocoder",
+    "sohibe.java-generate-setters-getters",
+    "SonarSource.sonarlint-vscode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "YaduAhuja.code-builder",
+    "YouMayCallMeV.vscode-java-saber",
+    "zerodind.familiar-java-themes",
+    "vmware.vscode-boot-dev-pack"
+
+  ]
+}
