@@ -1,18 +1,18 @@
 {
   "name": "arthurgb",
-  "displayName": "ArthurGB",
+  "displayName": "Advanced Java + Quarkus + Spring Boot Extension Collection",
   "description": "Here you can find all the extensions of ArthurGB using Java, Quarkus and Spring Boot.",
   "icon": "javaExtation.jpg",
   "publisher": "ArthurGularteBrandi",
   "version": "0.0.1",
   "author": {
-    "name": "Arthur Gularte Brandi",
+    "name": "ArthurGB",
     "email": "arthurgularte80@gmail.com",
     "url": "https://github.com/ArthurGB"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArthurGB80/JavaQuarkusSpringB_ExtensionPack"
+    "url": "https://github.com/ArthurGB80/java_quarkus_extentions_vscode"
   },
   "engines": {
     "vscode": "^1.83.0"
@@ -22,7 +22,7 @@
     "Java",
     "Quarkus",
     "Spring Boot",
-    "essential"
+    "Essentials"
   ],
   "categories": [
     "Extension Packs"
