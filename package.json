@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArthurGB80/JavaQuarkusSpringB_ExtensionPack"
+    "url": "https://github.com/ArthurGB80/java_quarkus_extentions_vscode"
   },
   "engines": {
     "vscode": "^1.83.0"
